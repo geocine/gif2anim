@@ -1,6 +1,6 @@
 ###gif2anim 1.0
 
-Copyright (C) 2013 Aivan Monceller
+Copyright © 2013 Aivan Monceller
 
 Convert animated GIFs to AnimationDrawables
 

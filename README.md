@@ -1,5 +1,7 @@
 ###gif2anim 1.0
+
 Copyright (C) 2013 Aivan Monceller
+
 Convert animated GIFs to AnimationDrawables
 
 	Usage: gif2anim -i file.gif

@@ -1,0 +1,15 @@
+packages/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+[Tt]humbs.db
+*.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+*.suo
+*.user
+*.sln.docstates

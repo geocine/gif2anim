@@ -1,6 +1,4 @@
-###gif2anim 1.0
-
-Copyright © 2013 Aivan Monceller
+### gif2anim
 
 Convert animated GIFs to AnimationDrawables
 
@@ -12,3 +10,5 @@ Convert animated GIFs to AnimationDrawables
 	-s, --oneshot    (Default: False) Adds the android:oneshot="true" attribute to the AnimationDrawable
 	-v               Print details during execution.
 	--help           Display this help screen.
+
+only works on Windows
